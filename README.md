@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**iaxoo/iaxoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m no currently working
+- 🌱 I’m no currently learning
+- 👯 I’m no looking to collaborate
+- 🤔 I’m no looking for help with all
+- 💬 No ask me about
+- 📫 How to no reach me
+- 😄 No Pronouns
+- ⚡ No Fun No Fact
+-------------------------------------
+             i will always be against
+             
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
